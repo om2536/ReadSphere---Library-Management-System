@@ -83,7 +83,7 @@ You need a computing environment with an up to date version of Windows/Mac OS/Li
 
 * Clone the code repo using **HTTPS**, SSH or Github CLI
 ```
-git clone https://github.com/Krishna8660/Library-Management-System.git
+git clone https://github.com/om2536/ReadSphere---Library-Management-System.git
 ```
 
 ### 🚀 Installing and executing (dev)
